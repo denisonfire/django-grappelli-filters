@@ -16,6 +16,7 @@ setup(
     description='Additional filters for Djagno Grappelli admin',
     long_description=README,
     url='https://github.com/frnhr/django-grappelli-filters/',
+    zip_safe=False,
     author='Fran Hrzenjak',
     author_email='fran@changeset.hr',
     classifiers=[
